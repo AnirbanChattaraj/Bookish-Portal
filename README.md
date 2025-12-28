@@ -17,4 +17,6 @@ It contains two pages:
   - Email input (validated with `type="email"`)  
   - Book category drop-down  
   - Submit button  
-- Clean and accessible HTML, no CSS or JavaScript used  
+- Clean and accessible HTML, no CSS or JavaScript used
+
+- Preview>>https://anirbanchattaraj.github.io/Bookish-Portal/
